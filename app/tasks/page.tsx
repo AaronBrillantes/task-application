@@ -42,7 +42,7 @@ export default function Tasks() {
   return (
     <>
       
-      <div style={{ maxWidth: '600px', margin: '2rem auto', padding: '0 1rem' }}>
+      <div style={{maxWidth: '600px', margin: '2rem auto', padding: '0 1rem' }}>
         <h2>My Tasks</h2>
 
         <div style={{ marginBottom: '2rem', display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
